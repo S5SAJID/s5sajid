@@ -1,62 +1,114 @@
-# About Me
 
-## 👨‍💻 Sajid Ullah (S5SAJID)
+<img height="290" align="left" alt="Profile Pic" style="border-radius: 20px;" src="https://avatars.githubusercontent.com/u/104836510?v=4" />
 
-I am a passionate and skilled Web & Mobile Developer with over 3 years of experience. My expertise lies in front-end development, particularly with React JS, as well as pure HTML, CSS, and JavaScript. I have a profound love for JavaScript and creative coding, combining both coding and designing to make beautiful art with code.
+#  Hello, I'm Sajid Ullah 👋  
 
-### 🌟 Personal Information:
-- **Website:** [s5sajid.github.io](https://s5sajid.github.io)
-- **Email:** s5sajidyt@gmail.com
-- **Freelance:** Available
+🚀 **Full-Stack Developer | Mobile App Creator | UI/UX Enthusiast**  
 
-### 📚 Skills:
-- **HTML:** 100%
-- **CSS:** 90%
-- **JavaScript:** 75%
-- **Flask (Backend):** 78%
-- **React JS:** 80%
-- **Flutter:** 55%
-- **Python:** 70%
-- **Next JS:** 78%
+With **3+ years** of experience, I specialize in **building scalable, user-friendly, and visually appealing web & mobile applications**. My expertise spans **front-end magic, back-end engineering, and mobile development**, helping businesses and individuals bring their ideas to life with clean and efficient code.  
 
-### 💼 Professional Experience:
-#### Mobile Apps Development (2022 - 2023)
-Developed cross-platform mobile apps using React Native, including projects like MySchool App, Salah Tracker, and Note Pad.
+### ✨ Let’s build something amazing together!  
 
-#### Back-End Development (2020 - 2021)
-Created dynamic and RESTful APIs using Python and Flask, developed a blogging website with a proper backend and admin panel, and completed over 70+ projects including front-end, native apps, backend projects, and AI programs.
+<br>
+<br>
+<br>
+<br>
 
-#### Front-End Development (2020 - 2021)
-Learned and mastered front-end development through Programming Hub, obtaining certifications and honing skills in HTML, CSS, and JavaScript.
+<h1 align="center"> 🌍 Connect with Me  </h1>
 
-### 🔧 Services:
-- **Full Stack Website Development:** Front-end and back-end development or only front-end as needed.
-- **Mobile Apps Development:** Cross-platform, fast iOS and Android apps using Flutter.
-- **Front-End Development:** Using HTML, CSS, JavaScript, and libraries.
-- **React JS Web Apps:** Developing non-reloadable web apps for an enhanced user experience.
-- **Server-Side Rendering Apps:** Utilizing NextJS for fast websites.
-- **Dynamic and Static APIs:** Creating APIs for apps or websites.
+<p align="center">
+  <a href="https://s5sajid.github.io">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/s5sajid">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="mailto:s5sajidyt@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/@s5sajid">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=s5sajid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=s5sajid&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=s5sajid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
+<br>
+<br>
+<br>
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=s5sajid&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠️ My Tech Stack  
 
-### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s5sajid) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@s5sajid)
+<details>
+  <summary>🎨 <strong>Front-End Development</strong></summary>
+  <ul>
+    <li>⚡ HTML, CSS, JavaScript</li>
+    <li>⚡ React.js, Next.js</li>
+    <li>⚡ Tailwind CSS, Bootstrap</li>
+    <li>⚡ Redux, TypeScript</li>
+  </ul>
+</details>
 
----
+<details>
+  <summary>⚙️ <strong>Back-End Development</strong></summary>
+  <ul>
+    <li>🔹 Python, Flask</li>
+    <li>🔹 Next.Js</li>
+    <li>🔹 Node.js</li>
+    <li>🔹 RESTful API Development</li>
+  </ul>
+</details>
 
-I am more front-end focused and love working with technologies like React JS, HTML, CSS, and JavaScript. When it comes to creative coding, I enjoy combining coding and designing to create visually appealing art. With a commitment to delivering high-quality work and a passion for learning new technologies, I am available for freelance projects to help bring your ideas to life.
+<details>
+  <summary>📱 <strong>Mobile App Development</strong></summary>
+  <ul>
+    <li>🔹 React Native</li>
+    <li>🔹 Flutter</li>
+  </ul>
+</details>
 
-Feel free to contact me at [s5sajidyt@gmail.com](mailto:s5sajidyt@gmail.com) or connect with me on my social profiles.
 
----
+<br>
+<br>
+<br>
+<br>
+
+
+## 🚀 Featured Projects  
+🔹 **S5PAGES (Private)** - A builder with eccommerce capabilities which simplifies the process of creating your own webpages for your business, portfolio, etc..  
+
+🔹 **[ask-ullama-sahiba](https://github.com/s5sajid/ask-ullama-sahiba)** - A Next.js & TypeScript-powered platform for seeking Islamic answers.  
+
+🔹 **[My Portfolio Website](https://github.com/S5SAJID/s5sajid.github.io)** - A showcase of my web development skills and projects.  
+
+<p style="height: 80px"/>
+
+## 📊 GitHub Stats & Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=s5sajid&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophy">
+</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+> **"The Prophet (ﷺ) was asked, "What deeds are loved most by Allah?" He said, "The most regular constant deeds even though they may be few." He added, 'Don't take upon yourselves, except the deeds which are within your ability."**
+> Reference	 : Sahih al-Bukhari 6465
+> In-book reference	 : Book 81, Hadith 54
+
+
+<br>
+<br>
+<br>
+<br>
+
+## 🤝 Let's Collaborate!  
+
+🚀 Looking for a developer to bring your project to life? I’m open to:  
+✔️ Web & Mobile Development  
+✔️ Full-Stack Applications  
+✔️ API & Backend Solutions  
+
+📩 **Contact Me:**  
+📧 Email: [s5sajidyt@gmail.com](mailto:s5sajidyt@gmail.com)  
+🌍 Website: [s5sajid.github.io](https://s5sajid.github.io)  
