@@ -2,9 +2,11 @@
 🚀 **UI/UX Driven Full-Stack Developer**  
 Helping startups & buissness build scalable web apps, websites & AI solutions, having 3+ years of experience.
 
+## hmm, me:
 **For clients** 🚀 Build → Launch → Scale. Fast prototypes, clear roadmaps, no drama.  
 **For devs** 🧩 Clean code, reusable components, really love good DX.
 
+## stuff
 **Tech** ⚡ React · Next.js · Tailwind · TypeScript · BUN/NODE · Python · Flutter
 **Pinned** ✨ check my featured repos for real work
 
