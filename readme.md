@@ -1,6 +1,3 @@
-
-<img height="290" align="left" alt="Profile Pic" style="border-radius: 20px;" src="https://avatars.githubusercontent.com/u/104836510?v=4" />
-
 #  Hi, I’m SajidUllah (aka **s5sajid**)👋 
 🚀 **UI/UX Driven Full-Stack Developer**  
 Helping startups & buissness build scalable web apps, websites & AI solutions, having 3+ years of experience.
@@ -9,10 +6,9 @@ Helping startups & buissness build scalable web apps, websites & AI solutions, h
 **For devs** 🧩 Clean code, reusable components, really love good DX.
 
 **Tech** ⚡ React · Next.js · Tailwind · TypeScript · BUN/NODE · Python · Flutter
-
 **Pinned** ✨ check my featured repos for real work
 
-### ✨ Let’s build something amazing together!  
+**✨ Let’s build something amazing together!**
 Product-first. Fast. Responsible. If you want something simple, fast, and actually useful, say hi.
 
 <br>
