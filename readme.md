@@ -41,7 +41,3 @@
 </p>
 
 <br/>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s5sajid&show_icons=true&theme=tokyonight&hide_border=true" alt="s5sajid github stats" />
-</p>
