@@ -2,12 +2,6 @@
 
 <img src="./github-banner.png" width="100%" alt="header" />
 
-
-<a href="https://s5sajid.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-s5sajid.github.io-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s5sajid&label=Profile%20views&color=0e75b6&style=flat-square" alt="s5sajid" /></p>
-
 </div>
 
 <br/>
@@ -24,7 +18,8 @@
 <h3 align="center">Connect & Tech</h3>
 
 <p align="center">
-  <a href="https://s5sajid.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="https://s5sajid.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=s5sajid&label=Profile%20views&color=0e75b6&style=flat-square" alt="s5sajid" />
   <a href="https://www.linkedin.com/in/s5sajid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.youtube.com/@s5sajid" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
