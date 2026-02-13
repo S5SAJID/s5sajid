@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="header" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+SajidUllah+(s5sajid);UI%2FUX+Driven+Developer;Yep,+small+intro" alt="Typing SVG" /></a>
+<img src="./github-banner.png" width="100%" alt="header" />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s5sajid&label=Profile%20views&color=0e75b6&style=flat-square" alt="s5sajid" /></p>
 
