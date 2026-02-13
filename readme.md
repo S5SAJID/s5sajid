@@ -2,11 +2,11 @@
 
 <img src="./github-banner.png" width="100%" alt="header" />
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=s5sajid&label=Profile%20views&color=0e75b6&style=flat-square" alt="s5sajid" /></p>
 
 <a href="https://s5sajid.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-s5sajid.github.io-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s5sajid&label=Profile%20views&color=0e75b6&style=flat-square" alt="s5sajid" /></p>
 
 </div>
 
